@@ -1,7 +1,7 @@
 ### Hi there 👋, some minimal details about 👇me👇
 
 
-![Anshul Sahni](http://welcome-image.herokuapp.com/ping?provider=github&user_id=anshulsahni)
+![Welcome-image](http://welcome-image.herokuapp.com/ping?provider=github&user_id=anshulsahni)
 
 
 ##### ⚡*Fun fact: Everytime you refresh you'll get a new color in background* ☝️☝️☝️☝️
