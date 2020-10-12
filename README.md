@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, some minimal details about 👇me👇
+
+
+![Anshul Sahni](http://welcome-image.herokuapp.com/ping?provider=github&user_id=anshulsahni)
+
+
+##### ⚡*Fun fact: Everytime you refresh you'll get a new color in background* ☝️☝️☝️☝️
 
 <!--
 **anshulsahni/anshulsahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-
 -->
